@@ -1,0 +1,6 @@
+1.	What happens when you initialize a repository? Why do you need to do it?
+		This creates a .git sub-directory in the directory in which 'git init' command
+		was run. With this initialization, a git repository is created and it becomes
+		possible to track versions of the project's files using git.
+
+2.	
