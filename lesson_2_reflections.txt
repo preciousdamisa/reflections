@@ -3,4 +3,10 @@
 		was run. With this initialization, a git repository is created and it becomes
 		possible to track versions of the project's files using git.
 
-2.	
+2.	How is the staging area different from the working directory and the repository? What value do 		you think it offers?
+		The staging area serves as an intermediary for the working directory and the repository.
+		It's kind of like a playground. Files are added to it from the working directory, before
+		they are put (commited) to the repository
+3.	How can you use the staging area to make sure you have one commit per logical change?
+		With the staging are, it is possible to add one file which contains a logical change,
+		then commit just that file with the change.
