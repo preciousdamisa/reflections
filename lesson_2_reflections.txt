@@ -14,3 +14,7 @@
 	How would branches help?
 		One situation is when an experimental feature is to be implemented. Another is when an attempt
 		to fix a bug. With branches, one can work on a separate copy of the project, while having a functional copy.
+5.	How do the diagrams help you visualize the branch structure?
+		1. By showing the parent of each commit
+		2. Shows the last commit that a particular branch has in common with another commit
+		3. Can also show unreachable commit(s)
