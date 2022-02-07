@@ -18,3 +18,8 @@
 		1. By showing the parent of each commit
 		2. Shows the last commit that a particular branch has in common with another commit
 		3. Can also show unreachable commit(s)
+6.	What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+		When two branches are merged together, the commits in those branches are
+		merged. e.g branch B could be merged into branch A. In that case, branch
+		A would then point to the recent commit of branch B.
+
