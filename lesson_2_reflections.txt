@@ -22,4 +22,10 @@
 		When two branches are merged together, the commits in those branches are
 		merged. e.g branch B could be merged into branch A. In that case, branch
 		A would then point to the recent commit of branch B.
+7.	What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+		pros:
+		- It saves time
+		cons:
+		- Could potentially cause problems in the code, as the wrong code
+		could be merged
 
